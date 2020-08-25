@@ -129,7 +129,7 @@ def adding_to_dennis
         }
      }
 
-new_lang = :dennis_ritchie[:languages]
+new_lang = [:dennis_ritchie][:languages]
 new_lang << "Assembly"
 
 end
