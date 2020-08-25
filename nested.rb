@@ -61,7 +61,7 @@ def dennis_ritchies_language
      
      programmer_hash[:alan_kay][:known_for] =
      "GUI" 
-    [:dennis_ritchie][:languages] << "Assembly"
+     programmer_hash[:dennis_ritchie][:languages] << "Assembly"
 end
 
 def adding_matz
